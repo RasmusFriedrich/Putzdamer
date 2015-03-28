@@ -1,0 +1,170 @@
+h2, p, h4 { font-family:	verdana, arial, geneva;
+			color: #29282A
+	}
+
+body {
+	background-color: #BED28D;
+	}
+ 
+h4 {
+	text-align: center;
+	font-size:  80%;
+	font-weight: lighter;}
+
+p {
+	text-align: center;
+	font-size:  100%;
+  vertical-align:middle;
+  }
+  
+#seite {
+  background-color: #5A731D;
+  margin:           25px;
+  text-align:				center;
+}
+
+#addresse {
+	margin:		2px;
+	padding:	7px;
+	}
+
+	
+
+#überschrift {
+  text-align:		   center;
+  line-height:         1.9em;
+  font-style:          italic;
+  font-family:         Georgia, "Times New Roman", Times, serif;
+  color:               #444444;
+  border-color:        #696969;
+  border-width:        3px;
+  border-style:        thin;
+  background-color:    #5A731D;
+  padding:       	   25px;
+  margin:              25px;
+  background-image:    url(../../bilder/sonnetransparent.gif);
+  background-repeat:   no-repeat;
+  background-position: right;
+}
+	  
+#tabellehaupt {
+    display: 		table;
+    border-spacing:  10px;
+	margin:		15px;
+	width:		98%;
+    margin-right:  250px;
+}
+#tabellezeile {
+  display: table-row;
+}  
+
+
+#dasprojekt {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#presse {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#schülerInnen {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#organisation {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#kontakt {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#impressum {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#blog {
+  display: table-cell;
+  background-color: #768D3B;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+  margin-right: 250px;
+}
+
+#inhalt {
+  overflow:				hidden;
+  border-color:        #98AF5D;
+  border-width:        3px;
+  border-style:        thin;
+  background-color:    #98AF5D;
+  padding:             25px;
+  margin:              25px;
+}
+
+.darstellung {
+  float:		left;
+  width:		250px;
+  overflow: hidden;
+  margin: 20px 5px 35px 5px;
+  padding: 10px;
+  background-color:    #E5F2C3;
+  text-align:	center;
+  margin-right: 	50px;
+  margin-left:		40px;
+  }
+  
+.bildunterschrift {
+  text-align:		   center;
+  font-size:			small;
+}
+
+#text {
+	padding:			1px;
+	margin-top:		  10px;
+    border-left-width: 5px;
+	border-left-style: solid;
+	border-color:      #5A731D;}
+}
+
+#einleitung {
+	  overflow: hidden;
+  margin: 20px 5px 35px 5px;
+  padding: 10px;
+  background-color:    #E5F2C3;
+  text-align:	center;
+  }
+
+  
+

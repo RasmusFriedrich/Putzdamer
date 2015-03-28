@@ -1,0 +1,150 @@
+h2, p, h4 { font-family:	verdana, arial, geneva;
+			color: #29282A
+	}
+
+h4 {
+	text-align: center;
+	font-size:  110%;
+	font-weight: lighter;}
+
+p {
+	text-align: center;
+	font-size:  100%;
+  vertical-align:middle;
+  }
+  
+#seite {
+  background-color: #a7cece;
+  margin:           25px;
+  text-align:				center;
+}
+
+#addresse {
+	margin:		2px;
+	padding:	7px;
+	}
+
+	
+
+#überschrift {
+  text-align:		   center;
+  line-height:         1.9em;
+  font-style:          italic;
+  font-family:         Georgia, "Times New Roman", Times, serif;
+  color:               #444444;
+  border-color:        #696969;
+  border-width:        3px;
+  border-style:        thin;
+  background-color:    #a7cece;
+  padding:       	   25px;
+  margin:              25px;
+  background-image:    url(bilder/sonnetransparent.gif);
+  background-repeat:   no-repeat;
+  background-position: right;
+}
+
+	  
+#tabellehaupt {
+    display: 		table;
+    border-spacing:  10px;
+	margin:		15px;
+	width:		98%;
+    margin-right:  250px;
+}
+#tabellezeile {
+  display: table-row;
+}  
+
+
+#dasprojekt {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#presse {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#schülerInnen {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#organisation {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#kontakt {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#impressum {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+}
+
+#blog {
+  display: table-cell;
+  background-color: #A9A9F5;
+  font-size: 105%;
+  padding: 15px;
+  vertical-align: top;
+  width:		14%;
+  margin-right: 250px;
+}
+
+#zentrieren {
+	vertical-align: middle;
+	height: 100px;
+	}
+	
+#spalte-links {
+overflow: hidden;
+float: left;
+width: 49%;
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;}
+
+#spalte-rechts {
+	margin-top: 200px;
+    float: right;
+    width: 49%;
+    text-align: center
+    }
+	
+#inhalt {
+	overflow: hidden;
+		margin: 25px;
+	padding: 10px;
+  background-color:    #a7cece;
+	
+	}
+	  
